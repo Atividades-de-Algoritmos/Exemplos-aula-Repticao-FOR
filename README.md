@@ -159,7 +159,11 @@ fim do programa
 <br>
 
 # Sobre 📒:
-- Um código que recebe como entrada um número decimal e converte-o para binário
+- Um código que recebe como entrada um número decimal e converte-o para binário, seguimos a lógica a seguir.
+
+<br>
+
+![Foto_pra_binário](bin-mod.png)
 
 
 <br><br>
